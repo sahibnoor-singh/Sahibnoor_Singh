@@ -15,7 +15,6 @@
 
 ## 🎥 Demo
 
-
 <div align="center">
   <img src="https://via.placeholder.com/600x400.png?text=TowerRTS+Demo+GIF" width="80%" alt="Gameplay Demo"/>
 </div>

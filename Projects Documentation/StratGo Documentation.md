@@ -15,7 +15,6 @@
 
 ## 🎥 Demo
 
-
 <div align="center">
   <img src="https://via.placeholder.com/600x400.png?text=StratGo+Flutter+App+Demo" width="80%" alt="App Demo"/>
 </div>
