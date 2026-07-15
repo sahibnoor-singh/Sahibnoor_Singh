@@ -78,7 +78,7 @@ A full-stack AI-powered productivity application and smart personal assistant.
 - Conversational task creation, editing, and deletion using Google Gemini API.
 - Deep integration with user calendar and chat history.
 - **Tech:** Java, Spring Boot, PostgreSQL, Docker, Google OAuth.
-- [Read the Development Docs](./StratGo.md)
+- [Read the Development Docs](./Projects%20Documentation/StratGo%20Documentation.md)
 
 </td>
 <td width="50%" valign="top">
@@ -89,7 +89,7 @@ A full-stack AI-powered productivity application and smart personal assistant.
 A mobile real-time strategy game featuring tactical troop deployment, AI-controlled combat, and persistent player progression.
 - Modular gameplay architecture using NavMesh AI and event-driven UI.
 - Complex upgrade systems (XP, Gold economy) and dynamic base progression.
-- [Read the Development Docs](./TowerRTS.md)
+- [Read the Development Docs](./Projects%20Documentation/3D%20RTS%20Documentation.md)
 
 </td>
 </tr>
@@ -113,7 +113,7 @@ A physics-based bubble shooter featuring 52 handcrafted levels.
 
 - **Integrations:** AdMob monetization, TinySauce analytics, Meta App Events.
 - **Tech Stack:** Unity, C#.
-- [View Full Documentation](./BubblyBub.md)
+- [View Full Documentation](./Projects%20Documentation/Bubbly%20Bub%20Documentation.md)
 
 </td>
 <td width="50%" valign="top">
@@ -128,7 +128,7 @@ A tile-matching puzzle game with optimized drag-and-drop mechanics and responsiv
 
 - **Business:** Configured user acquisition tracking and participated in Voodoo's publishing program.
 - **Tech Stack:** Unity, C#.
-- [View Full Documentation](./MatchEmAll.md)
+- [View Full Documentation](./Projects%20Documentation/Match'em%20All%20Documentation.md)
 
 </td>
 </tr>
@@ -139,7 +139,7 @@ A tile-matching puzzle game with optimized drag-and-drop mechanics and responsiv
 `Simulation / Merge Game`
 
 A merge-and-deliver simulation game featuring modular inventory systems and order management mechanics. Developed reusable Unity systems to accelerate future game production.
-- [View Full Documentation](./MergeEmAll.md)
+- [View Full Documentation](./Projects%20Documentation/Merge'em%20All%20Documentation.md)
 
 </td>
 </tr>
@@ -159,7 +159,7 @@ A merge-and-deliver simulation game featuring modular inventory systems and orde
 An AI-powered project management assistant capable of workload analysis and deadline monitoring.
 - Built ES|QL-based analytics pipelines for project insights.
 - Designed intelligent reporting workflows to identify project risks.
-- [View Architecture & Docs](./AIProjectManager.md)
+- [View Architecture & Docs](./Projects%20Documentation/AI%20Project%20Manager%20Documentation.md)
 
 </td>
 <td width="50%" valign="top">
@@ -168,7 +168,7 @@ An AI-powered project management assistant capable of workload analysis and dead
 `Machine Learning · Python`
 
 A CNN-based handwritten digit classification model built using Python and Jupyter Notebook.
-- [View Architecture & Docs](./HandwrittenDigitRecognition.md)
+- [View Architecture & Docs](./Projects%20Documentation/Digit%20Recognition%20Documentation.md)
 
 </td>
 </tr>
@@ -187,7 +187,7 @@ A CNN-based handwritten digit classification model built using Python and Jupyte
 
 Published 6+ AR lenses using Lens Studio.
 - **Metrics:** 790K+ views, 741K+ plays, 4.6K+ shares, and 1K+ posts.
-- [View Development Docs](./SnapchatLenses.md)
+- [View Development Docs](./Projects%20Documentation/Snapchat%20Lenses%20Documentation.md)
 
 </td>
 </tr>

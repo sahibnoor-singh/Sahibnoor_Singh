@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/800x300.png?text=Match'em+All+Banner" width="100%" alt="Match'em All"/>
+  <img src="../Assets/matchemalllogo.png" width="100%" alt="Match'em All Banner"/>
   
   <h1>Match'em All</h1>
   <p><b>Vibrant Tile-Matching Game Optimized for Performance</b></p>
@@ -17,7 +17,9 @@
 
 *(Add your actual GIF/Video link here)*
 <div align="center">
-  <img src="https://via.placeholder.com/600x400.png?text=MatchEmAll+Demo+GIF" width="80%" alt="Gameplay Demo"/>
+  <video width="80%" autoplay loop muted playsinline>
+    <source src="../Assets/MatchemAll_ad1.mp4" type="video/mp4">
+  </video>
 </div>
 
 ---

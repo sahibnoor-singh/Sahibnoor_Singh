@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/800x300.png?text=Bubbly+Bub+Banner" width="100%" alt="Bubbly Bub"/>
+  <img src="../Assets/bubblybub_feature_graphic.png" width="100%" alt="Bubbly Bub Banner"/>
   
   <h1>Bubbly Bub</h1>
   <p><b>A highly engaging hyper-casual game with addictive mechanics</b></p>
@@ -21,7 +21,9 @@
 
 *(Add your actual GIF/Video link here)*
 <div align="center">
-  <img src="https://via.placeholder.com/600x400.png?text=Bubbly+Bub+Demo+GIF" width="80%" alt="Gameplay Demo"/>
+  <video width="80%" autoplay loop muted playsinline>
+    <source src="../Assets/BubblyBub_ad1.mp4" type="video/mp4">
+  </video>
 </div>
 
 ---
@@ -29,10 +31,12 @@
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="https://via.placeholder.com/250x500.png?text=Main+Menu" width="30%" />
-  &nbsp;&nbsp;
-  <img src="https://via.placeholder.com/250x500.png?text=Gameplay" width="30%" />
-  &nbsp;&nbsp;
+<td width="50%">
+<img src="../Assets/bubblybubsc.png" width="100%" alt="Main Menu"/>
+</td>
+<td width="50%">
+<img src="../Assets/bubblybubsc.png" width="100%" alt="Level Gameplay"/>
+</td>  &nbsp;&nbsp;
   <img src="https://via.placeholder.com/250x500.png?text=Game+Over+Screen" width="30%" />
 </p>
 
