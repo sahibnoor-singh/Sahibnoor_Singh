@@ -20,8 +20,8 @@
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="./resume.pdf">
-    <img src="https://img.shields.io/badge/Resume-View_PDF-blue?style=flat-square&logo=read-the-docs&logoColor=white"/>
+  <a href="./Resume.md">
+    <img src="https://img.shields.io/badge/Resume-View_Resume-blue?style=flat-square&logo=read-the-docs&logoColor=white"/>
   </a>
 </p>
 

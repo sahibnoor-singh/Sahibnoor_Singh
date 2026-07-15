@@ -15,11 +15,12 @@
 
 ## 🎥 Demo
 
-*(Add your actual GIF/Video link here)*
+
 <div align="center">
-  <video width="80%" autoplay loop muted playsinline>
-    <source src="../Assets/MatchemAll_ad1.mp4" type="video/mp4">
-  </video>
+  <a href="https://github.com/sahibnoor-singh/sahibnoor-singh/raw/main/Assets/MatchemAll_ad1.mp4">
+    <img src="https://via.placeholder.com/600x400.png?text=Click+to+Watch+Gameplay+Video" width="80%" alt="Watch Gameplay Demo"/>
+  </a>
+  <p><i>(Click image to watch gameplay video)</i></p>
 </div>
 
 ---

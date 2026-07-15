@@ -15,7 +15,7 @@ This project implements a Convolutional Neural Network (CNN) from scratch (using
 
 ## 🎥 Demo
 
-*(Add your actual GIF/Video link here)*
+
 <div align="center">
   <img src="https://via.placeholder.com/600x400.png?text=Drawing+Canvas+Demo" width="80%" alt="Prediction Demo"/>
 </div>

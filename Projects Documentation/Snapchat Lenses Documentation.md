@@ -15,7 +15,7 @@ A collection of interactive Augmented Reality (AR) lenses developed using Snap's
 
 ## 🎥 Demo
 
-*(Add your actual GIF/Video link here)*
+
 <div align="center">
   <img src="https://via.placeholder.com/600x400.png?text=Lens+Demo+GIF" width="80%" alt="AR Demo"/>
 </div>
