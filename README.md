@@ -1,6 +1,6 @@
 <!-- ══════════════════════════════════════════════════════════ HEADER -->
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a0a,100:111827&height=160&section=header&text=Sahibnoor%20Singh&fontSize=46&fontColor=ffffff&fontAlignY=60&desc=Backend%20Developer%20%E2%80%A2%20Flutter%20Developer%20%E2%80%A2%20Unity%20Game%20Developer&descAlignY=80&descSize=17&animation=fadeIn&v=2" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a0a,100:111827&height=160&section=header&text=Sahibnoor%20Singh&fontSize=46&fontColor=ffffff&fontAlignY=60&desc=Software%20Engineer%20%E2%80%A2%20Backend%20Developer%20%E2%80%A2%20Unity%20Game%20Developer&descAlignY=80&descSize=17&animation=fadeIn&v=2" width="100%"/>
 </h1>
 
 <!-- ══════════════════════════════════════════════════════════ TYPING BANNER -->
